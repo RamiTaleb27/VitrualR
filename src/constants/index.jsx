@@ -13,10 +13,10 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#" },
-  { label: "Workflow", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
+  { label: "Features", href: "/#" },
+  { label: "Workflow", href: "/#" },
+  { label: "Pricing", href: "/#" },
+  { label: "Testimonials", href: "/#" },
 ];
 
 export const testimonials = [
@@ -154,25 +154,25 @@ export const pricingOptions = [
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "/#", text: "Getting Started" },
+  { href: "/#", text: "Documentation" },
+  { href: "/#", text: "Tutorials" },
+  { href: "/#", text: "API Reference" },
+  { href: "/#", text: "Community Forums" },
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "/#", text: "Features" },
+  { href: "/#", text: "Supported Devices" },
+  { href: "/#", text: "System Requirements" },
+  { href: "/#", text: "Downloads" },
+  { href: "/#", text: "Release Notes" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "/#", text: "Events" },
+  { href: "/#", text: "Meetups" },
+  { href: "/#", text: "Conferences" },
+  { href: "/#", text: "Hackathons" },
+  { href: "/#", text: "Jobs" },
 ];
